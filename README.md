@@ -39,5 +39,5 @@ The combined date and time, along with the journal entry, will be printed to the
 
 Feel free to customize the GUI elements (labels, entry fields, button) according to your preferences.
 
-# [License](license.md)
+# [License]
 This project is licensed under the MIT License.
