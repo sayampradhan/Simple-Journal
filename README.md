@@ -1,3 +1,11 @@
+<div align="center">
+
+![Warning](https://via.placeholder.com/300x50/FF0000/FFFFFF?text=Warning)
+
+## This project is still in developmental phase. Developers are invited to contribute.
+ 
+ </div>
+
 # Simple-Journal
 This is a simple GUI application built using tkinter in Python. It allows users to input a date, time, and journal entry, and then retrieves and displays the combined date and time along with the journal entry.
 
