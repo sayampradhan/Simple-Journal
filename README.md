@@ -1,7 +1,7 @@
 # Simple-Journal
 This is a simple GUI application built using tkinter in Python. It allows users to input a date, time, and journal entry, and then retrieves and displays the combined date and time along with the journal entry.
 
-# Prerequisites
+# [Prerequisites](/REQUIREMENTS.txt)
 Before running this application, ensure that you have the following installed:
 - Python 3.x
 - tkinter library
